@@ -107,7 +107,7 @@ categories: jekyll update
         <p>
             In this plot, we can see a heat map with the incidence of prostitution crimes from the year 2003 to May 2018. This representation of the data reflects very well what it is known about sex trafficking and sex workers locations in the city. It is clearly seen that the San Francisco district where prostitution crime reports have been more frequent in the time period that concerns us is in the Mission district, specially known for its Capp Street, were the prostitution activities are mainly located in the city. Hovering over the map, it is reflected that the total number of reports associated to prostitution in this area is 7307, which is very high compared to the rest of the areas. The next bigger value after this is 3945 in the Northern district. This region is adjacent to the Mission district, which could be a reason for why its number of reports due to prostitution are also high compared to the rest of the districts. Despite of this, other districts which share a longer border with the mission district do not have such a high incidence in this crime. This might be because, even though the Capp Street is in the Mission district, it goes up to the north, having the beginning of the street sitting fairly close to the border of the Northern district, something that does not happen with the rest of the areas around it.
         </p>
-         <embed type="text/html" src="/2.html" width="700" height="400">
+         <embed type="text/html" src="/2.html" width="800" height="400">
     </div>
 
     <div class="column-separator"></div>
@@ -115,7 +115,11 @@ categories: jekyll update
     <div class="section-title">Context for the third plot</div>
     <div class="section-content">
         <p>
-            This plot is an interactive way of seeing when sexual crimes took place. It starts with an overview, where it does not differentiate between hours, so the reader has a holistic view. The plot allows to better visualize if there is a tendency in month or year. Then, it groups the crimes by the different hours, to have a more detailed understanding.
+            This plot is an interactive way of seeing when sexual crimes took place. It starts with an overview, where it does not differentiate between hours, so the reader has a holistic view. The plot allows to better visualise if there is a tendency in month or year, since the grid view has an easy inspection by looking at rows and columns. Then, it groups the crimes by the different hours, to have a more detailed understanding. Every month of every year is represented by a dot, and the darker and bigger the dot is, the higher the amount of crimes commited. some months of 2018 have no records of crimes, and therefore, have no dot.
+
+As seen on the previous plots, from 2003 to 2010-2011, the prostitution crimes were much more common than in more recent years, and this plot also makes wevidence of that. It can be seen that the two years with more crimes are 2003 and 2007, since they have bigger and darker dots, as mentioned earlier.
+
+It can be said that the city of San Francisco has had two different eras concerning prostitution crimes: before and after July 2012. As evidenced in the plot, prostitution crimes decreased a lot after July 2012, date in which general elections were about to happen. The 6th of November 2012, general elections were held in the city of San Francisco, which made a big impact. In this elections, one of the state propositions that was made (and voted in favour) was related to human traffiking. The specific title of the proposition was "Human Trafficking. Penalties. Initiative Statute.", and voting in favour meant "Longer prison sentences and larger fines for committing human trafficking crimes.". After that, and with the execption of some specific months (that would need to be analysed in further detail), the prostitution crimes were reduced by a big amount, making the state proposition very impactant and useful.
         </p>
         <embed type="text/html" src="/3.html" width="700" height="400">
     </div>
@@ -125,7 +129,7 @@ categories: jekyll update
     <div class="section-title">Conclusions of our short story</div>
     <div class="section-content">
         <p>
-            alg de conclusioo updated btches
+            After this deeper analysis of the SF crime reports, and specifically the prostitution crimes, a better understanding of the city has been achieved. While one could think that prositution is all over the city, it has been seen how it is concentrated in a specific zone of the city, and even more in a specific street called Capp Street. It has also been seen how the city is subject to political and social events, such as a final game or the state proposition of the general elections, acting in different directions depending on the event. Finally, it is relieving to see this kind of crimes decrease over time.
         </p>
     </div>
 
