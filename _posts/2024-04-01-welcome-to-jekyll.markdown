@@ -97,7 +97,7 @@ categories: jekyll update
             From this representation, we can infer that the number of crimes by prostitution has significantly decreased since the year 2003 to the year 2018. A first decrease can be appreciated from the year 2003 to the year 2006, when it starts to increase once again. Then, the highest crime count for prostitution was reached in July 2008, with a value of 223 cases. After a thorough inspection of events related to this summer in the city, a relevant multitudinary event was found to have taken place in this date. During July 2008, San Francisco hosted the Major League Baseball All-Start Game, an event that brought together the top players from the American Baseball League and the national League for a showcase game. This event took place in the AT&T Park in the city, a baseball stadium home to the San Francisco Giants baseball team and which counts with a capacity for more that 40000 spectators. Such event would have had a positive impact in local economy, enhancing tourism, hotel bookings and spending in local businesses. The other side of this congestion time for the city shows up in the above representation, showcasing the significant increment in prostitution-related police reports in the city at this time. Of course, this event might not be directly related to the increase in prostitution-related crimes for this specific moment in the city, but it certainly is a reason that could have contributed to this increment in cases.
         </p>
 
-         <embed type="text/html" src="/assets/1.jpeg" width="700" height="400" style="max-width: 100%; height: auto;">
+         <embed type="text/html" src="/assets/1.jpeg" width="700" height="400" >
     </div>
 
     <div class="column-separator"></div>
