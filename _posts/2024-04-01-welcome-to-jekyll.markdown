@@ -98,6 +98,7 @@ categories: jekyll update
         </p>
 
          <embed type="text/html" src="/assets/1.jpeg" width="700" height="300" >
+Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
     <div class="column-separator"></div>
@@ -122,6 +123,7 @@ As seen on the previous plots, from 2003 to 2010-2011, the prostitution crimes w
 It can be said that the city of San Francisco has had two different eras concerning prostitution crimes: before and after July 2012. As evidenced in the plot, prostitution crimes decreased a lot after July 2012, date in which general elections were about to happen. The 6th of November 2012, general elections were held in the city of San Francisco, which made a big impact. In this elections, one of the state propositions that was made (and voted in favour) was related to human traffiking. The specific title of the proposition was "Human Trafficking. Penalties. Initiative Statute.", and voting in favour meant "Longer prison sentences and larger fines for committing human trafficking crimes.". After that, and with the execption of some specific months (that would need to be analysed in further detail), the prostitution crimes were reduced by a big amount, making the state proposition very impactant and useful.
         </p>
         <embed type="text/html" src="/3.html" width="700" height="700">
+Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
     <div class="column-separator"></div>
@@ -140,6 +142,8 @@ It can be said that the city of San Francisco has had two different eras concern
         <ul>
             <li><a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">SF Crime Data. Police Department Incident Reports: Historical 2003 to May 2018</a></li>
             <li><a href="https://uspros.net/">US PROS COllective</a></li>
+	<li><a href="https://sfelections.org/results/20121106/index.php">Results of state propositions</a></li>
+	<li><a href="https://lao.ca.gov/ballot/2012/35_11_2012.aspx">Explanation of proposition</a></li>
             <li><a href="https://abc7news.com/san-francisco-sex-workers-prostitution-neighbors-speak-out-capp-street-sf/12764865/">EXCLUSIVE: SF residents say this street has turned into 'Las Vegas Strip' with alleged sex workers</a></li>
             <li><a href="https://www.sfchronicle.com/sf/article/sex-workers-capp-street-17774301.php">This is the brutal reality for sex workers on S.F.'s Capp Street</a></li>
         </ul>
