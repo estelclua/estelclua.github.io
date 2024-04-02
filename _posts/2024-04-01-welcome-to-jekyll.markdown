@@ -91,13 +91,13 @@ categories: jekyll update
 
     <div class="column-separator"></div>
 
-    <div class="section-title">Context for the first plot in the webpage</div>
+    <div class="section-title">Context for the first plot</div>
     <div class="section-content">
         <p>
             From this representation, we can infer that the number of crimes by prostitution has significantly decreased since the year 2003 to the year 2018. A first decrease can be appreciated from the year 2003 to the year 2006, when it starts to increase once again. Then, the highest crime count for prostitution was reached in July 2008, with a value of 223 cases. After a thorough inspection of events related to this summer in the city, a relevant multitudinary event was found to have taken place in this date. During July 2008, San Francisco hosted the Major League Baseball All-Start Game, an event that brought together the top players from the American Baseball League and the national League for a showcase game. This event took place in the AT&T Park in the city, a baseball stadium home to the San Francisco Giants baseball team and which counts with a capacity for more that 40000 spectators. Such event would have had a positive impact in local economy, enhancing tourism, hotel bookings and spending in local businesses. The other side of this congestion time for the city shows up in the above representation, showcasing the significant increment in prostitution-related police reports in the city at this time. Of course, this event might not be directly related to the increase in prostitution-related crimes for this specific moment in the city, but it certainly is a reason that could have contributed to this increment in cases.
         </p>
 
-         <embed type="text/html" src="/assets/1.jpeg" width="700" height="400" >
+         <embed type="text/html" src="/assets/1.jpeg" width="700" height="200" >
     </div>
 
     <div class="column-separator"></div>
@@ -107,7 +107,7 @@ categories: jekyll update
         <p>
             In this plot, we can see a heat map with the incidence of prostitution crimes from the year 2003 to May 2018. This representation of the data reflects very well what it is known about sex trafficking and sex workers locations in the city. It is clearly seen that the San Francisco district where prostitution crime reports have been more frequent in the time period that concerns us is in the Mission district, specially known for its Capp Street, were the prostitution activities are mainly located in the city. Hovering over the map, it is reflected that the total number of reports associated to prostitution in this area is 7307, which is very high compared to the rest of the areas. The next bigger value after this is 3945 in the Northern district. This region is adjacent to the Mission district, which could be a reason for why its number of reports due to prostitution are also high compared to the rest of the districts. Despite of this, other districts which share a longer border with the mission district do not have such a high incidence in this crime. This might be because, even though the Capp Street is in the Mission district, it goes up to the north, having the beginning of the street sitting fairly close to the border of the Northern district, something that does not happen with the rest of the areas around it.
         </p>
-         <embed type="text/html" src="/2.html" width="800" height="400">
+         <embed type="text/html" src="/2.html" width="700" height="400">
     </div>
 
     <div class="column-separator"></div>
@@ -121,7 +121,7 @@ As seen on the previous plots, from 2003 to 2010-2011, the prostitution crimes w
 
 It can be said that the city of San Francisco has had two different eras concerning prostitution crimes: before and after July 2012. As evidenced in the plot, prostitution crimes decreased a lot after July 2012, date in which general elections were about to happen. The 6th of November 2012, general elections were held in the city of San Francisco, which made a big impact. In this elections, one of the state propositions that was made (and voted in favour) was related to human traffiking. The specific title of the proposition was "Human Trafficking. Penalties. Initiative Statute.", and voting in favour meant "Longer prison sentences and larger fines for committing human trafficking crimes.". After that, and with the execption of some specific months (that would need to be analysed in further detail), the prostitution crimes were reduced by a big amount, making the state proposition very impactant and useful.
         </p>
-        <embed type="text/html" src="/3.html" width="700" height="400">
+        <embed type="text/html" src="/3.html" width="700" height="600">
     </div>
 
     <div class="column-separator"></div>
