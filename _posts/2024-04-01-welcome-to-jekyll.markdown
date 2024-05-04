@@ -91,7 +91,7 @@ categories: jekyll update
         In Copenhagen, there is a large number of listings, more 18000. In the map below, you can see their distribution along the city.
 
         </p>
-         <embed type="text/html" src="/assets/map.html" width="700" height="500" >
+         <embed type="text/html" src="/map.html" width="700" height="500" >
 
         <p>
         The most expensive neighbourhood is Indre By, which corresponds to Copenhagen city center, inside of Copenhagen metropolitan area. This price difference is obvious, since it is much more convenient for toursits to be hosted right in the city center, to be as close as possible to all the touristy attractions and to avoid using public transport, which can become one of the main expenses when travelling around Copenhagen. Despite of this, some other neighbourhoods, such as Frederiksberg and Norrebro, could also be good choices for your stay in the city.
@@ -102,7 +102,7 @@ categories: jekyll update
 
           
         </p>
-         <embed type="text/html" src="/assets/preus.jpeg" width="700" height="500" >
+         <embed type="text/html" src="/preus.jpeg" width="700" height="500" >
     </div>
 
     <div class="column-separator"></div>
@@ -125,7 +125,6 @@ categories: jekyll update
             From these information, it can be considered that superhosts might really be able to offer an outstanding experience at their lodgings and, with this post, we aim to study this specific category of host to confirm or deny such statement. In the dataset at hand, we counted on 2325 profiles of superhost for the evaluation, against 16188 regular hosts. This data imbalance roots from the recent designation of the superhost term.
         </p>
 
-Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
     <div class="column-separator"></div>
