@@ -79,36 +79,64 @@ categories: jekyll update
 <body>
 
 <div class="container">
-    <div class="title"> Prostitution in San Francisco</div>
+    <div class="title"> Airbnb superhosts in Copenhagen - are they the real deal?</div>
     <div class="authors">Estel Clua i Sánchez (s232507), Andrea Matamoros Alonso (s233514), Víctor Sobrino Cusidó (s232773)</div>
 
-    <div class="section-title">Introductioaaa leleleleease</div>
+    <div class="section-title">Introduction</div>
     <div class="section-content">
         <p>
-            San Francisco is a city located in the state of California, surrounded by the Pacific Ocean and the San Francisco Bay, with its very iconic Golden Gate Bridge. Despite being an iconic city in the USA, the crime rate can be quite high. The dataset at disposal for the next series of events is the San Francisco Police Department Incident Reports: Historical 2003 to May 2018 (<a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">See the dataset here</a>). In this dataset, the descriptions of several types of crimes are present throughout the years 2003 to May 2018. This data will allow us to develop a <strong>thorough exploration of the crimes related to prostitution</strong> occurring in this period of time. Something interesting to point out from this data is that the term <em>prostitution crimes</em> makes reference to both soliciting and loitering reports. This means that in this police records both incidences for people offering prostitution services and people soliciting them are reflected. In the year 2023, which falls outside the scope for this dataset, loitering was depenalized. This means that sex workers could no longer be arrested for offering their services. This law targeted a vulnerable group of people and worked specially in the detriment of trans-women in the area, whose arrests for this crime were recurrent, as stated by Rachel West, working for the <a href="https://uspros.net/">US Prostitutes Collective</a>.
+
+        Airbnb is a well-known platform where hosts offer lodging to tourists and travelers. In the city of <strong>Copenhagen</strong>, there is a great number of listings available for those seeking a place to stay during their visit to this vibrant city. During this post, we want to offer you the possibility of exploring something that is often misregarded: the hosts.
+       
+        In Copenhagen, there is a large number of listings, more 18000. In the map below, you can see their distribution along the city.
+
         </p>
+         <embed type="text/html" src="/assets/map.html" width="700" height="500" >
+
+        <p>
+        The most expensive neighbourhood is Indre By, which corresponds to Copenhagen city center, inside of Copenhagen metropolitan area. This price difference is obvious, since it is much more convenient for toursits to be hosted right in the city center, to be as close as possible to all the touristy attractions and to avoid using public transport, which can become one of the main expenses when travelling around Copenhagen. Despite of this, some other neighbourhoods, such as Frederiksberg and Norrebro, could also be good choices for your stay in the city.
+
+        Norrebro is a bustling part of Copenhagen, a multicultural neighbourhood full of places with quite the charm and very interesting cafés, whose popularity has grown over the years among university students and alternative crowds. On the other hand, Frederiskberg is a much more quiet part of the city, due to its residential nature. Here, you can find some interesting place,s such as the Zoo, Frederiskberg Palace and Gardens and even an underground museum, Cisternerne.
+
+        Taking into account all of the neighbourhoods, the mean price per night stay is of $1314.37. It seems quite high right? Well, there might be a certain type of host, called Superhost, that might be deserving of such high rates for their lodgings around the city. Let us explain why:
+
+          
+        </p>
+         <embed type="text/html" src="/assets/preus.jpeg" width="700" height="500" >
     </div>
 
     <div class="column-separator"></div>
 
-    <div class="section-title">Context for the first plot</div>
+    <div class="section-title">Superhosts</div>
     <div class="section-content">
         <p>
-            From this representation, we can infer that the number of crimes by prostitution has significantly decreased since the year 2003 to the year 2018. A first decrease can be appreciated from the year 2003 to the year 2006, when it starts to increase once again. Then, the highest crime count for prostitution was reached in July 2008, with a value of 223 cases. After a thorough inspection of events related to this summer in the city, a relevant multitudinary event was found to have taken place in this date. During July 2008, San Francisco hosted the Major League Baseball All-Start Game, an event that brought together the top players from the American Baseball League and the national League for a showcase game. This event took place in the AT&T Park in the city, a baseball stadium home to the San Francisco Giants baseball team and which counts with a capacity for more that 40000 spectators. Such event would have had a positive impact in local economy, enhancing tourism, hotel bookings and spending in local businesses. The other side of this congestion time for the city shows up in the above representation, showcasing the significant increment in prostitution-related police reports in the city at this time. Of course, this event might not be directly related to the increase in prostitution-related crimes for this specific moment in the city, but it certainly is a reason that could have contributed to this increment in cases.
+            Superhosts are individuals recognized for their exceptional hospitality and consistent delivery of outstanding guest experiences. The designation of Superhost carries a certain prestige within the Airbnb community, suggesting a higher level of professionalism and service quality.
+
+            <strong>What are super hosts?</strong> <em>Airbnb Superhost</em> is a program designed by Airbnb to identify, promote and reward the most hospitable hosts in the website. They are hosts with more experience who are well rated by travelers and that can be set as en example for the whole Airbnb community. These hosts stand out for being able to offer memorable experiences to travelers staying with them.
+
+            <strong>What are the criteria for an average host to be able to become a superhost?</strong> Airbnb monitors hosts activities 4 times a year (every trimester) and performs evaluations on profiles. These are some prerequisites that might grant a superhost stamp for a host profile:
+
+            - Succesfully conclude at least 10 booked trips or 3 trips with a total stay of, at least, 100 nights.
+            - Keep a comment rate for the trips of, at least, 50% from all the bookings.
+            - Keep a guest response rate of, at least, 90% from all contacts done for your lodgings.
+            - Having 0 cancellations (exceptuating the ones included in Major Disruptive Events Policy).
+            - Keeping an overall score of 4,8.
+
+            From these information, it can be considered that superhosts might really be able to offer an outstanding experience at their lodgings and, with this post, we aim to study this specific category of host to confirm or deny such statement. In the dataset at hand, we counted on 2325 profiles of superhost for the evaluation, against 16188 regular hosts. This data imbalance roots from the recent designation of the superhost term.
         </p>
 
-         <embed type="text/html" src="/assets/1.jpeg" width="700" height="500" >
 Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
     <div class="column-separator"></div>
 
-    <div class="section-title">Context for the second plot</div>
+    <div class="section-title">Response time</div>
     <div class="section-content">
         <p>
-            In this plot, we can see a heat map with the incidence of prostitution crimes from the year 2003 to May 2018. This representation of the data reflects very well what it is known about sex trafficking and sex workers locations in the city. It is clearly seen that the San Francisco district where prostitution crime reports have been more frequent in the time period that concerns us is in the Mission district, specially known for its Capp Street, were the prostitution activities are mainly located in the city. Hovering over the map, it is reflected that the total number of reports associated to prostitution in this area is 7307, which is very high compared to the rest of the areas. The next bigger value after this is 3945 in the Northern district. This region is adjacent to the Mission district, which could be a reason for why its number of reports due to prostitution are also high compared to the rest of the districts. Despite of this, other districts which share a longer border with the mission district do not have such a high incidence in this crime. This might be because, even though the Capp Street is in the Mission district, it goes up to the north, having the beginning of the street sitting fairly close to the border of the Northern district, something that does not happen with the rest of the areas around it.
+            Something that we like when we plan a trip is having everything well organized, including where we will stay during the trip. Being a able to rent a place within minutes is something at our reach with the Airbnb chats with their hosts. In the polar graphs above, we can appreciate that Superhost response time is notably faster than a regular host response. This strengthens the myth surrounding the quality of stay provided this type of hosts. But Superhosts do not only have to reply fast, but they also must reply to almost everybody requesting hosting in their facilities, even if this answer might end up being negative. In the bar plot below, it is shown that the response rate for Superhosts is mostly 100%. For regular hosts, it does not reach 80%, but it still can be considered to be high enough. Something interesting is that a certain amoun of the Superhosts have a response rate smaller than 50%, meaning that in the next evaluation done by Airbnb, they might loose their Superhost credential, since this value is not up to the expectations of the platform.
         </p>
-         <embed type="text/html" src="/2.html" width="700" height="400">
+         <embed type="text/html" src="/pies.jpeg" width="700" height="400">
+         <embed type="text/html" src="/barras.jpeg" width="700" height="400">
     </div>
 
     <div class="column-separator"></div>
@@ -116,13 +144,10 @@ Slide to view the complete figure! (This way it has higher resolution ;) )
     <div class="section-title">Context for the third plot</div>
     <div class="section-content">
         <p>
-            This plot is an interactive way of seeing when sexual crimes took place. It starts with an overview, where it does not differentiate between hours, so the reader has a holistic view. The plot allows to better visualise if there is a tendency in month or year, since the grid view has an easy inspection by looking at rows and columns. Then, it groups the crimes by the different hours, to have a more detailed understanding. Every month of every year is represented by a dot, and the darker and bigger the dot is, the higher the amount of crimes commited. some months of 2018 have no records of crimes, and therefore, have no dot.
+            Independently from the opinion Airbnb has from their Superhosts, guests' opinions might result more valuable for a lodge-seeker. In this interactive plot, you will be able to explore and tell the difference between the number of reviews regular hosts and superhosts receive. We can notice that superhosts have less review but, since this is an absolute count and there are less superhosts in our data set, it makes sense for the data to appear like so.
 
-As seen on the previous plots, from 2003 to 2010-2011, the prostitution crimes were much more common than in more recent years, and this plot also makes wevidence of that. It can be seen that the two years with more crimes are 2003 and 2007, since they have bigger and darker dots, as mentioned earlier.
-
-It can be said that the city of San Francisco has had two different eras concerning prostitution crimes: before and after July 2012. As evidenced in the plot, prostitution crimes decreased a lot after July 2012, date in which general elections were about to happen. The 6th of November 2012, general elections were held in the city of San Francisco, which made a big impact. In this elections, one of the state propositions that was made (and voted in favour) was related to human traffiking. The specific title of the proposition was "Human Trafficking. Penalties. Initiative Statute.", and voting in favour meant "Longer prison sentences and larger fines for committing human trafficking crimes.". After that, and with the execption of some specific months (that would need to be analysed in further detail), the prostitution crimes were reduced by a big amount, making the state proposition very impactant and useful.
         </p>
-        <embed type="text/html" src="/3.html" width="700" height="700">
+        <embed type="text/html" src="/reviews.html" width="700" height="700">
 Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
