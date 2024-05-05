@@ -147,7 +147,7 @@ categories: jekyll update
 
             Relevant insights that can be obtained from the plot are that the inscription of new hosts follow a specific curve (the reason behind that curve is unknown with the information avaiolable, except for 2020 and 2021 sicne the reasons are clearly the pandemic), and that super hosts seem to be the precursors when new hosts sign up to airbnb.
         </p>
-        <embed type="text/html" src="/violin.html" width="700" height="700">
+        <embed type="text/html" src="/violin.pdf" width="700" height="700">
     </div>
    
     <div class="section-title">How many listings do hosts have?</div>
@@ -156,7 +156,7 @@ categories: jekyll update
             With this plot it is evidenced that the vaste majority of hosts only have one listing, and that having 2 or 3 listings is quite popular. From there on the count drops to lower values, since the economic resources required to have many listings are much bigger. The histogram above reveals an insight that may seem contradictory. It can be seen that hosts with 7 or more listings are mostly regular hosts, while it would make sense that these people where super hosts. 
 
         </p>
-        <embed type="text/html" src="/listing.html" width="700" height="700">
+        <embed type="text/html" src="/listings.html" width="700" height="700">
 Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
@@ -166,7 +166,7 @@ Slide to view the complete figure! (This way it has higher resolution ;) )
             Here it can be seen how there is no apparent difference between hosts and super hosts for what the instat booking does. There are more rgular hosts that accept instant bookings, but that is because there are more regular hosts. If the percentage is taken into account, it is very similar. Also, it would make sense that super hosts allowed less instant bookings, since they are more wanted by tenants and therfore more booked thoroughout the year.
 
         </p>
-        <embed type="text/html" src="/instant.pfd" width="700" height="700">
+        <embed type="text/html" src="/instant.pdf" width="700" height="700">
 Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
