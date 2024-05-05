@@ -138,26 +138,39 @@ categories: jekyll update
          <embed type="text/html" src="/barras.jpeg" width="700" height="400">
     </div>
 
-    <div class="column-separator"></div>
+ <div class="column-separator"></div>
 
-    <div class="section-title">Context for the third plot</div>
+    <div class="section-title">Since when are hosts and super hosts, hosts?</div>
     <div class="section-content">
         <p>
-            Independently from the opinion Airbnb has from their Superhosts, guests' opinions might result more valuable for a lodge-seeker. In this interactive plot, you will be able to explore and tell the difference between the number of reviews regular hosts and superhosts receive. We can notice that superhosts have less review but, since this is an absolute count and there are less superhosts in our data set, it makes sense for the data to appear like so.
+            With the violin plot above, it can be seen what time did a host become a host for the first time. The plot has the most recent dates at the bottom and the most ancient ones on the top. At first sight, it is clear how around 2015, lots of new hosts came to the airbnb platform. The graph peaks again in 2022. Even though both sides of the figure look very simiilar, with deep inspection it can be seen how the green tendency is always ahead of the red one, meaning that superhosts became host before to their relative comparison. Is is important to mention that both sides are equally large, but that does not mean the number of super hosts is equal to the number of regular hosts. The amount of super hosts is smaller.
+
+            Relevant insights that can be obtained from the plot are that the inscription of new hosts follow a specific curve (the reason behind that curve is unknown with the information avaiolable, except for 2020 and 2021 sicne the reasons are clearly the pandemic), and that super hosts seem to be the precursors when new hosts sign up to airbnb.
+        </p>
+        <embed type="text/html" src="/violin.html" width="700" height="700">
+    </div>
+   
+    <div class="section-title">How many listings do hosts have?</div>
+    <div class="section-content">
+        <p>
+            With this plot it is evidenced that the vaste majority of hosts only have one listing, and that having 2 or 3 listings is quite popular. From there on the count drops to lower values, since the economic resources required to have many listings are much bigger. The histogram above reveals an insight that may seem contradictory. It can be seen that hosts with 7 or more listings are mostly regular hosts, while it would make sense that these people where super hosts. 
 
         </p>
-        <embed type="text/html" src="/reviews.html" width="700" height="700">
+        <embed type="text/html" src="/listing.html" width="700" height="700">
 Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
-    <div class="column-separator"></div>
-
-    <div class="section-title">Conclusions of our short story</div>
+    <div class="section-title">Can people instantly book listings?</div>
     <div class="section-content">
         <p>
-            After this deeper analysis of the SF crime reports, and specifically the prostitution crimes, a better understanding of the city has been achieved. While one could think that prositution is all over the city, it has been seen how it is concentrated in a specific zone of the city, and even more in a specific street called Capp Street. It has also been seen how the city is subject to political and social events, such as a final game or the state proposition of the general elections, acting in different directions depending on the event. Finally, it is relieving to see this kind of crimes decrease over time.
+            Here it can be seen how there is no apparent difference between hosts and super hosts for what the instat booking does. There are more rgular hosts that accept instant bookings, but that is because there are more regular hosts. If the percentage is taken into account, it is very similar. Also, it would make sense that super hosts allowed less instant bookings, since they are more wanted by tenants and therfore more booked thoroughout the year.
+
         </p>
+        <embed type="text/html" src="/instant.pfd" width="700" height="700">
+Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
+
+   
 
     <div class="column-separator"></div>
 
