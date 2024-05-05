@@ -123,9 +123,25 @@ categories: jekyll update
             - Keeping an overall score of 4,8.
 
             From these information, it can be considered that superhosts might really be able to offer an outstanding experience at their lodgings and, with this post, we aim to study this specific category of host to confirm or deny such statement. In the dataset at hand, we counted on 2325 profiles of superhost for the evaluation, against 16188 regular hosts. This data imbalance roots from the recent designation of the superhost term.
+
+            Le'ts take a look at the localizations of the hosts and superhosts around the city of Copenhagen. Notice the density of superhosts is much reduced compared to regular hosts, since this highlighted role is, as we mentioned before, of recent creation in the platform.
+
+            embed type="text/html" src="/maphosts.html" width="700" height="500" >
+            embed type="text/html" src="/mapnohosts.html" width="700" height="500" >
         </p>
 
     </div>
+
+<div class="section-content">
+        <p>
+            Independently from the opinion Airbnb has from their Superhosts, guests' opinions might result more valuable for a lodge-seeker. In this interactive plot, you will be able to explore and tell the difference between the number of reviews regular hosts and superhosts receive. We can notice that superhosts have less review but, since this is an absolute count and there are less superhosts in our data set, it makes sense for the data to appear like so.
+
+  
+            embed type="text/html" src="/number_host_reviews.html" width="700" height="500" >
+        </p>
+
+    </div>
+
 
     <div class="column-separator"></div>
 
@@ -170,7 +186,19 @@ Slide to view the complete figure! (This way it has higher resolution ;) )
 Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
-   
+
+    
+
+   <div class="column-separator"></div>
+    <div class="section-title">Conclusions</div>
+    <div class="section-content">
+        <p>
+            All in all, our exploration of the categorizations between hosts and superhosts within the realm of Airbnb accommodations in Copenhagen sheds light on the differences that can significantly impact one's lodging experience. Through our analysis, it becomes evident that superhosts offer a heightened level of reliability and hospitality, thus rendering them a favorable choice for discerning travelers. This, of course, without a significant price raise, for which giving a try to this type of host should be quite recommendable. Therefore, while both categories present unique offerings, the commitment to excellence demonstrated by superhosts suggests that opting for their accommodations may yield a more enriching stay in the Danish capital. Therefore, when choosing from different lodging options for your next visit to Copenhagen, considering a superhost may indeed prove to be a prudent decision, potentially elevating your experience to new heights of satisfaction and enjoyment.
+
+        </p>
+    
+    </div>
+
 
     <div class="column-separator"></div>
 
