@@ -195,7 +195,7 @@ Slide to view the complete figure! (This way it has higher resolution ;) )
     <div class="section-content">
         <p>
             Something to comtemplate, if not the most important aspect, is the pricing difference between regular hosts and superhosts. Superhosts have a mean pricing per night of 1258.28 kr and regular hosts have a mean pricing per night of 1239.61 kr. As we can see, this difference is not significant at all and, in the next jitter plot, we are able to appreaciate the difference in ratings per category, where Superhosts do not have very bad or bad ratings, only one avergae rating, and the rest of them have good and very good ratings, meaning that the scoring of superhosts is much higher than for regular hosts.
-        <embed type="text/html" src="/last.html" width="700" height="700">
+        <embed type="text/html" src="/last.jpeg" width="700" height="700">
         </p>
     
     </div>
