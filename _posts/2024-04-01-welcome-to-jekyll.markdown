@@ -183,8 +183,8 @@ categories: jekyll update
             Here it can be seen how there is no apparent difference between hosts and super hosts for what the instat booking does. There are more rgular hosts that accept instant bookings, but that is because there are more regular hosts. If the percentage is taken into account, it is very similar. Also, it would make sense that super hosts allowed less instant bookings, since they are more wanted by tenants and therfore more booked thoroughout the year.
 
         </p>
-        <embed type="text/html" src="/instant.pdf" width="710" height="500">
-Slide to view the complete figure! (This way it has higher resolution ;) )
+        <embed type="text/html" src="/instant.pdf" width="710" height="520">
+
     </div>
 
    <div class="column-separator"></div>
@@ -192,7 +192,8 @@ Slide to view the complete figure! (This way it has higher resolution ;) )
     <div class="section-content">
         <p>
             Something to comtemplate, if not the most important aspect, is the pricing difference between regular hosts and superhosts. Superhosts have a mean pricing per night of 1258.28 kr and regular hosts have a mean pricing per night of 1239.61 kr. As we can see, this difference is not significant at all and, in the next jitter plot, we are able to appreaciate the difference in ratings per category, where Superhosts do not have very bad or bad ratings, only one avergae rating, and the rest of them have good and very good ratings, meaning that the scoring of superhosts is much higher than for regular hosts.
-        <embed type="text/html" src="/last.jpeg" width="700" height="700">
+        <embed type="text/html" src="/last.jpeg" width="700" height="550">
+        Slide to view the complete figure! (This way it has higher resolution ;)
         </p>
     
     </div>
