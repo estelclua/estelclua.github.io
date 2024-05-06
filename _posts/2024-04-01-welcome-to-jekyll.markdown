@@ -102,8 +102,8 @@ categories: jekyll update
 
           
         </p>
-         <embed type="text/html" src="/preus.pdf" width="700" height="500" >
-         Slide to view the complete figure! (This way it has higher resolution ;) 
+         <embed type="text/html" src="/preus.pdf" width="700" height="470" >
+
     </div>
 
     <div class="column-separator"></div>
