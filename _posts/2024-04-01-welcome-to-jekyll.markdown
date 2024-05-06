@@ -174,7 +174,7 @@ categories: jekyll update
             With this plot it is evidenced that the vaste majority of hosts only have one listing, and that having 2 or 3 listings is quite popular. From there on the count drops to lower values, since the economic resources required to have many listings are much bigger. The histogram above reveals an insight that may seem contradictory. It can be seen that hosts with 7 or more listings are mostly regular hosts, while it would make sense that these people where super hosts. 
 
         </p>
-        <embed type="text/html" src="/listings.html" width="850" height="550">
+        <embed type="text/html" src="/listings.html" width="850" height="400">
 
     </div>
 
