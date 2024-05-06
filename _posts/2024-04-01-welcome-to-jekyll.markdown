@@ -102,7 +102,7 @@ categories: jekyll update
 
           
         </p>
-         <embed type="text/html" src="/preus.pdf" width="700" height="600" >
+         <embed type="text/html" src="/preus.pdf" width="700" height="500" >
          Slide to view the complete figure! (This way it has higher resolution ;) 
     </div>
 
