@@ -135,7 +135,7 @@ categories: jekyll update
             Independently from the opinion Airbnb has from their Superhosts, guests' opinions might result more valuable for a lodge-seeker. In this interactive plot, you will be able to explore and tell the difference between the number of reviews regular hosts and superhosts receive. We can notice that superhosts have less review but, since this is an absolute count and there are less superhosts in our data set, it makes sense for the data to appear like so.
 
         </p>
-            <embed type="text/html" src="/number_host_reviews.html" width="700" height="700" >
+            <embed type="text/html" src="/number_host_reviews.html" width="500" height="400" >
         
 
     </div>
