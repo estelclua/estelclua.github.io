@@ -103,6 +103,7 @@ categories: jekyll update
           
         </p>
          <embed type="text/html" src="/preus.jpeg" width="700" height="600" >
+         Slide to view the complete figure! (This way it has higher resolution ;) 
     </div>
 
     <div class="column-separator"></div>
@@ -133,7 +134,7 @@ categories: jekyll update
             Independently from the opinion Airbnb has from their Superhosts, guests' opinions might result more valuable for a lodge-seeker. In this interactive plot, you will be able to explore and tell the difference between the number of reviews regular hosts and superhosts receive. We can notice that superhosts have less review but, since this is an absolute count and there are less superhosts in our data set, it makes sense for the data to appear like so.
 
         </p>
-            <embed type="text/html" src="/number_host_reviews.html" width="900" height="700" >
+            <embed type="text/html" src="/number_host_reviews.html" width="1300" height="1000" >
         
 
     </div>
@@ -159,11 +160,11 @@ categories: jekyll update
     <div class="section-title">Since when are hosts and super hosts, hosts?</div>
     <div class="section-content">
         <p>
-            With the violin plot above, it can be seen what time did a host become a host for the first time. The plot has the most recent dates at the bottom and the most ancient ones on the top. At first sight, it is clear how around 2015, lots of new hosts came to the airbnb platform. The graph peaks again in 2022. Even though both sides of the figure look very simiilar, with deep inspection it can be seen how the green tendency is always ahead of the red one, meaning that superhosts became host before to their relative comparison. Is is important to mention that both sides are equally large, but that does not mean the number of super hosts is equal to the number of regular hosts. The amount of super hosts is smaller.
+            With the violin plot below, it can be seen what time did a host become a host for the first time. The plot has the most recent dates at the bottom and the most ancient ones on the top. At first sight, it is clear how around 2015, lots of new hosts came to the airbnb platform. The graph peaks again in 2022. Even though both sides of the figure look very simiilar, with deep inspection it can be seen how the green tendency is always ahead of the red one, meaning that superhosts became host before to their relative comparison. Is is important to mention that both sides are equally large, but that does not mean the number of super hosts is equal to the number of regular hosts. The amount of super hosts is smaller.
 
             Relevant insights that can be obtained from the plot are that the inscription of new hosts follow a specific curve (the reason behind that curve is unknown with the information avaiolable, except for 2020 and 2021 sicne the reasons are clearly the pandemic), and that super hosts seem to be the precursors when new hosts sign up to airbnb.
         </p>
-        <embed type="text/html" src="/violin.pdf" width="700" height="700">
+        <embed type="text/html" src="/violin.pdf" width="700" height="500">
     </div>
    
     <div class="section-title">How many listings do hosts have?</div>
