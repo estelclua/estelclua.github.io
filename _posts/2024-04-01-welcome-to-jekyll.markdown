@@ -174,7 +174,7 @@ categories: jekyll update
 
         </p>
         <embed type="text/html" src="/listings.html" width="700" height="700">
-Slide to view the complete figure! (This way it has higher resolution ;) )
+
     </div>
 
     <div class="section-title">Can people instantly book listings?</div>
@@ -183,7 +183,7 @@ Slide to view the complete figure! (This way it has higher resolution ;) )
             Here it can be seen how there is no apparent difference between hosts and super hosts for what the instat booking does. There are more rgular hosts that accept instant bookings, but that is because there are more regular hosts. If the percentage is taken into account, it is very similar. Also, it would make sense that super hosts allowed less instant bookings, since they are more wanted by tenants and therfore more booked thoroughout the year.
 
         </p>
-        <embed type="text/html" src="/instant.pdf" width="700" height="700">
+        <embed type="text/html" src="/instant.pdf" width="710" height="500">
 Slide to view the complete figure! (This way it has higher resolution ;) )
     </div>
 
