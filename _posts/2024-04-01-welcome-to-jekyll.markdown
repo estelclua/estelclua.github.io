@@ -116,11 +116,11 @@ categories: jekyll update
 
             <strong>What are the criteria for an average host to be able to become a superhost?</strong> Airbnb monitors hosts activities 4 times a year (every trimester) and performs evaluations on profiles. These are some prerequisites that might grant a superhost stamp for a host profile:
 
-            - Succesfully conclude at least 10 booked trips or 3 trips with a total stay of, at least, 100 nights.
-            - Keep a comment rate for the trips of, at least, 50% from all the bookings.
-            - Keep a guest response rate of, at least, 90% from all contacts done for your lodgings.
-            - Having 0 cancellations (exceptuating the ones included in Major Disruptive Events Policy).
-            - Keeping an overall score of 4,8.
+            1. Succesfully conclude at least 10 booked trips or 3 trips with a total stay of, at least, 100 nights.
+            1. Keep a comment rate for the trips of, at least, 50% from all the bookings.
+            1. Keep a guest response rate of, at least, 90% from all contacts done for your lodgings.
+            1. Having 0 cancellations (exceptuating the ones included in Major Disruptive Events Policy).
+            1. Keeping an overall score of 4,8.
 
             From these information, it can be considered that superhosts might really be able to offer an outstanding experience at their lodgings and, with this post, we aim to study this specific category of host to confirm or deny such statement. In the dataset at hand, we counted on 2325 profiles of superhost for the evaluation, against 16188 regular hosts. This data imbalance roots from the recent designation of the superhost term.
 
