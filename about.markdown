@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-We hope that this assignment on prostitution in San Francisco has proven to be insightful, and that you have been able to learn from the observation of the presented graphics and text. Regards.
+We hope that this project on Airbnb in Copenhagen has provided you with fresh and unique insights into the Superhost figure, and that you've gained valuable knowledge from studying the accompanying graphics and text. Best regards. Here's the link to our explanatory notebook:

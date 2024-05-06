@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our short data story"
+title:  "Our Final Project"
 date:   2024-04-01 13:19:53 +0200
 categories: jekyll update
 ---
@@ -125,10 +125,11 @@ categories: jekyll update
             From these information, it can be considered that superhosts might really be able to offer an outstanding experience at their lodgings and, with this post, we aim to study this specific category of host to confirm or deny such statement. In the dataset at hand, we counted on 2325 profiles of superhost for the evaluation, against 16188 regular hosts. This data imbalance roots from the recent designation of the superhost term.
 
             Le'ts take a look at the localizations of the hosts and superhosts around the city of Copenhagen. Notice the density of superhosts is much reduced compared to regular hosts, since this highlighted role is, as we mentioned before, of recent creation in the platform.
+            </p>
 
             embed type="text/html" src="/maphosts.html" width="700" height="500" >
             embed type="text/html" src="/mapnohosts.html" width="700" height="500" >
-        </p>
+        
 
     </div>
 
@@ -136,9 +137,9 @@ categories: jekyll update
         <p>
             Independently from the opinion Airbnb has from their Superhosts, guests' opinions might result more valuable for a lodge-seeker. In this interactive plot, you will be able to explore and tell the difference between the number of reviews regular hosts and superhosts receive. We can notice that superhosts have less review but, since this is an absolute count and there are less superhosts in our data set, it makes sense for the data to appear like so.
 
-  
-            embed type="text/html" src="/number_host_reviews.html" width="700" height="500" >
         </p>
+            embed type="text/html" src="/number_host_reviews.html" width="700" height="500" >
+        
 
     </div>
 
