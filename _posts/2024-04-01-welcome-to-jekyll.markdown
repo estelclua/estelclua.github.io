@@ -102,7 +102,7 @@ categories: jekyll update
 
           
         </p>
-         <embed type="text/html" src="/preus.jpeg" width="700" height="500" >
+         <embed type="text/html" src="/preus.jpeg" width="500" height="400" >
     </div>
 
     <div class="column-separator"></div>
@@ -114,20 +114,15 @@ categories: jekyll update
 
             <strong>What are super hosts?</strong> <em>Airbnb Superhost</em> is a program designed by Airbnb to identify, promote and reward the most hospitable hosts in the website. They are hosts with more experience who are well rated by travelers and that can be set as en example for the whole Airbnb community. These hosts stand out for being able to offer memorable experiences to travelers staying with them.
 
-            <strong>What are the criteria for an average host to be able to become a superhost?</strong> Airbnb monitors hosts activities 4 times a year (every trimester) and performs evaluations on profiles. These are some prerequisites that might grant a superhost stamp for a host profile:
-
-            1. Succesfully conclude at least 10 booked trips or 3 trips with a total stay of, at least, 100 nights.
-            1. Keep a comment rate for the trips of, at least, 50% from all the bookings.
-            1. Keep a guest response rate of, at least, 90% from all contacts done for your lodgings.
-            1. Having 0 cancellations (exceptuating the ones included in Major Disruptive Events Policy).
-            1. Keeping an overall score of 4,8.
+            <strong>What are the criteria for an average host to be able to become a superhost?</strong> Airbnb monitors hosts activities 4 times a year (every trimester) and performs evaluations on profiles. These are some prerequisites that might grant a superhost stamp for a host profile: first, they need to succesfully conclude at least 10 booked trips or 3 trips with a total stay of, at least, 100 nights. Then, keep a comment rate for the trips of, at least, 50% from all the bookings. In addition, keep a guest response rate of, at least, 90% from all contacts done for your lodgings. They also need having 0 cancellations (exceptuating the ones included in Major Disruptive Events Policy), and finally, keeping an overall score of 4,8.
 
             From these information, it can be considered that superhosts might really be able to offer an outstanding experience at their lodgings and, with this post, we aim to study this specific category of host to confirm or deny such statement. In the dataset at hand, we counted on 2325 profiles of superhost for the evaluation, against 16188 regular hosts. This data imbalance roots from the recent designation of the superhost term.
 
             Le'ts take a look at the localizations of the hosts and superhosts around the city of Copenhagen. Notice the density of superhosts is much reduced compared to regular hosts, since this highlighted role is, as we mentioned before, of recent creation in the platform.
         </p>
-            
+             <div class="section-title">Map for Superhosts locations</div>
             <embed type="text/html" src="/maphosts.html" width="700" height="500" >
+            <div class="section-title">Map for non-Superhosts locations</div>
             <embed type="text/html" src="/mapnohosts.html" width="700" height="500" >
         
 
