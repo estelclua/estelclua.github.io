@@ -148,7 +148,7 @@ categories: jekyll update
         <p>
             Something that we like when we plan a trip is having everything well organized, including where we will stay during the trip. Being a able to rent a place within minutes is something at our reach with the Airbnb chats with their hosts. In the polar graphs above, we can appreciate that Superhost response time is notably faster than a regular host response. This strengthens the myth surrounding the quality of stay provided this type of hosts. 
         </p>
-             <embed type="text/html" src="/pies.pdf" width="500" height="400" >
+             <embed type="text/html" src="/pies.pdf" width="680" height="430" >
 
         <p>
          But Superhosts do not only have to reply fast, but they also must reply to almost everybody requesting hosting in their facilities, even if this answer might end up being negative. In the bar plot below, it is shown that the response rate for Superhosts is mostly 100%. For regular hosts, it does not reach 80%, but it still can be considered to be high enough. Something interesting is that a certain amoun of the Superhosts have a response rate smaller than 50%, meaning that in the next evaluation done by Airbnb, they might loose their Superhost credential, since this value is not up to the expectations of the platform.
@@ -218,8 +218,8 @@ categories: jekyll update
     <div class="references">
         <div class="section-title">References</div>
         <ul>
-            <li><a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">SF Crime Data. Police Department Incident Reports: Historical 2003 to May 2018</a></li>
-            <li><a href="https://uspros.net/">US PROS COllective</a></li>
+            <li><a href="https://insideairbnb.com/get-the-data/">[1] Inside Airbnb. (n.d.). Get the data. </a></li>
+            <li><a href="https://www.airbnb.ie/help/article/829?_set_bev_on_new_domain=1714411652_MmVlZTg5ZDhmYzY4&locale=en">Airbnb. (n.d.). How to become a superhost?</a></li>
 	<li><a href="https://sfelections.org/results/20121106/index.php">Results of state propositions</a></li>
 	<li><a href="https://lao.ca.gov/ballot/2012/35_11_2012.aspx">Explanation of proposition</a></li>
             <li><a href="https://abc7news.com/san-francisco-sex-workers-prostitution-neighbors-speak-out-capp-street-sf/12764865/">EXCLUSIVE: SF residents say this street has turned into 'Las Vegas Strip' with alleged sex workers</a></li>
