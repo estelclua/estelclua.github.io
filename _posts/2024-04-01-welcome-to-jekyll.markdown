@@ -102,7 +102,7 @@ categories: jekyll update
 
           
         </p>
-         <embed type="text/html" src="/preus.pdf" width="700" height="470" >
+         <embed type="text/html" src="/preus.pdf" width="690" height="450" >
 
     </div>
 
