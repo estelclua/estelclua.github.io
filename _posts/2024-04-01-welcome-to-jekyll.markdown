@@ -148,7 +148,7 @@ categories: jekyll update
         <p>
             Something that we like when we plan a trip is having everything well organized, including where we will stay during the trip. Being a able to rent a place within minutes is something at our reach with the Airbnb chats with their hosts. In the polar graphs above, we can appreciate that Superhost response time is notably faster than a regular host response. This strengthens the myth surrounding the quality of stay provided this type of hosts. 
         </p>
-             <embed type="text/html" src="/pies.pdf" width="680" height="300" >
+             <embed type="text/html" src="/pies.pdf" width="680" height="330" >
 
         <p>
          But Superhosts do not only have to reply fast, but they also must reply to almost everybody requesting hosting in their facilities, even if this answer might end up being negative. In the bar plot below, it is shown that the response rate for Superhosts is mostly 100%. For regular hosts, it does not reach 80%, but it still can be considered to be high enough. Something interesting is that a certain amoun of the Superhosts have a response rate smaller than 50%, meaning that in the next evaluation done by Airbnb, they might loose their Superhost credential, since this value is not up to the expectations of the platform.
@@ -194,7 +194,7 @@ categories: jekyll update
     <div class="section-content">
         <p>
             Something to comtemplate, if not the most important aspect, is the pricing difference between regular hosts and superhosts. Superhosts have a mean pricing per night of 1258.28 kr and regular hosts have a mean pricing per night of 1239.61 kr. As we can see, this difference is not significant at all and, in the next jitter plot, we are able to appreaciate the difference in ratings per category, where Superhosts do not have very bad or bad ratings, only one avergae rating, and the rest of them have good and very good ratings, meaning that the scoring of superhosts is much higher than for regular hosts.
-        <embed type="text/html" src="/last.pdf" width="700" height="350">
+        <embed type="text/html" src="/last.pdf" width="700" height="360">
 
         </p>
     
